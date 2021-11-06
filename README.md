@@ -4,6 +4,7 @@ The variable of choice is the price of plain american bread, non-organic bananas
 
 # TODO
 
-- Optional challanges
-- Data gathering
-- Fermi estimation
+- 3.2 data interpretation
+- 4.4 optional distribution
+- pictures
+- reflection
