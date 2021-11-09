@@ -4,6 +4,4 @@ The variable of choice is the price of plain american bread, non-organic bananas
 
 # TODO
 
-- 4.4 optional distribution
-- pictures
 - reflection
