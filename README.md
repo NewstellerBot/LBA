@@ -4,4 +4,4 @@ The variable of choice is the price of plain american bread, non-organic bananas
 
 # TODO
 
-- reflection
+- photo outside cafe
