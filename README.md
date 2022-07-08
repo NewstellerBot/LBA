@@ -1,7 +1,9 @@
-# LBA assignment for the CS50 class
+# Location based assignment for Minerva University CS50
 
-The variable of choice is the price of plain american bread, non-organic bananas, and low fat milk
+For the assignment, I conducted a statistical analysis of the prices of bread and milk in San Francisco stores.
 
 # TODO
 
-- photo outside cafe
+- [x] photo outside cafe
+- [x] descriptive stats
+- [x] sampling
